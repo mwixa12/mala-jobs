@@ -1,0 +1,23 @@
+{
+  "short_name": "MalaJobs",
+  "name": "MalaJobs — Youth Employment & Skills Match",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#059669",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Mobile-first youth employment and skills-matching platform for Malawi"
+}
